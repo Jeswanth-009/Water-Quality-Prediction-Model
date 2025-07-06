@@ -1,6 +1,6 @@
 # Water-Quality-Prediction-Model (Final)
 
-## pollution_model.pkl file link: https://drive.google.com/file/d/1LqqDDFOKjhiLzkw7xG2gXN8lsi-pm_2R/view?usp=sharing
+## To visit the app: [https://drive.google.com/file/d/1LqqDDFOKjhiLzkw7xG2gXN8lsi-pm_2R/view?usp=sharing](https://water-quality-prediction-model-by-jeswanth.streamlit.app)
 
 ![WhatsApp Image 2025-07-05 at 17 59 35_6f39de41](https://github.com/user-attachments/assets/a874e6ce-a7db-473a-821a-cb05382ca67c)
 
